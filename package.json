@@ -1,0 +1,10 @@
+{
+    "name": "zr-app",
+    "version": "1.0.0",
+    "description": "A version controlled key-value store.",
+    "main": "server.js",
+    "dependencies": {
+        "express": "^4.16.2",
+        "mysql": "^2.15.0"
+    }
+}
