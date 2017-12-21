@@ -66,6 +66,12 @@ Endpoint: /records
 Response: {"key":"test1","value":"val1","timestamp":1511253434},{"key":"test1","value":"val2","timestamp":1511251241} 
 
 
+*** Working app link ***
+
+
+http://ec2-54-175-9-64.compute-1.amazonaws.com/
+
+
 #Developer
 Zoilo Rabang
 2017-12-21
